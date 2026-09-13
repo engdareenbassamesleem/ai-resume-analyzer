@@ -1,0 +1,6 @@
+Synthetic vacancy - demonstration only
+Junior Automation Developer
+Build n8n workflows and connect Google Sheets using webhooks.
+Use Python and SQL for data processing.
+Document changes in Git and write unit tests.
+Docker is a plus.

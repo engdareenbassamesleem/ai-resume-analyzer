@@ -1,0 +1,5 @@
+Synthetic candidate - demonstration only
+Mathematics graduate with project experience.
+Built an n8n workflow with Google Sheets and webhooks.
+Used Python and SQL to clean sample records.
+Studied probability and linear algebra.
